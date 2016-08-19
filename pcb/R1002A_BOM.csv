@@ -1,0 +1,26 @@
+Reference, Value, Footprint, Datasheet, Manufacturer, MPN, SKU
+J1,PCIEXPRESS-X1,Main:PCIEXPRESS-X1,,Amphenol FCI,10018784-10200TLF,
+R4,10k,Resistors_SMD:R_0603,
+R5,10k,Resistors_SMD:R_0603,
+R6,10k,Resistors_SMD:R_0603,
+R7,10k,Resistors_SMD:R_0603,
+R8,10k,Resistors_SMD:R_0603,
+R2,10k,Resistors_SMD:R_0603,
+R1,10k,Resistors_SMD:R_0603,
+R3,10k,Resistors_SMD:R_0603,
+U1,MC14504B-TSSOP,Main:SOP65P500X440X120-16,,ON Semiconductor,MC14504BDTR2G,STUFF
+Q1,Q_NMOS_GDSD,TO_SOT_Packages_SMD:SOT-223,,Diodes Inc,ZXMN4A06GTA,STUFF
+Q2,Q_NMOS_GDSD,TO_SOT_Packages_SMD:SOT-223,,Diodes Inc,ZXMN4A06GTA,STUFF
+Q3,Q_NMOS_GDSD,TO_SOT_Packages_SMD:SOT-223,,Diodes Inc,ZXMN4A06GTA,STUFF
+Q4,Q_NMOS_GDSD,TO_SOT_Packages_SMD:SOT-223,,Diodes Inc,ZXMN4A06GTA,STUFF
+R9,0.1,Resistors_SMD:R_0603,,Panasonic Electronic Components,ERJ-3RSFR10V,STUFF
+R10,0.1,Resistors_SMD:R_0603,,Panasonic Electronic Components,ERJ-3RSFR10V,STUFF
+R11,0.1,Resistors_SMD:R_0603,,Panasonic Electronic Components,ERJ-3RSFR10V,STUFF
+R12,0.1,Resistors_SMD:R_0603,,Panasonic Electronic Components,ERJ-3RSFR10V,STUFF
+C1,0.1uF,Capacitors_SMD:C_0603,
+C3,0.1uF,Capacitors_SMD:C_0603,
+C4,0.1uF,Capacitors_SMD:C_0603,
+J3,CONN_01X04,Main:SOCKET254P-01X04,,TE Connectivity AMP Connectors,3-644456-4,STUFF
+U2,EFM8BB10F2G,Main:QFN50P300X300X75-20NT170X170,,Silicon Labs,EFM8BB10F2G-A-QFN20R,STUFF
+C2,0.1uF,Capacitors_SMD:C_0603,
+J2,CONN_01X04,Main:SOCKET254P-01X04,,TE Connectivity AMP Connectors,3-644456-4,STUFF
