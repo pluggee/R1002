@@ -1,4 +1,4 @@
-update=Fri 24 Mar 2017 12:46:02 PM PDT
+update=Mon 27 Mar 2017 11:51:24 PM PDT
 version=1
 last_client=kicad
 [pcbnew]
@@ -36,3 +36,7 @@ LibName4=connect
 LibName5=logic
 LibName6=microcontroller
 LibName7=systems
+LibName8=cap_smd
+LibName9=cap_smd_extra
+LibName10=res_smd
+LibName11=res_smd_extra
