@@ -1,0 +1,13 @@
+### Module positions - created on Wed Mar 29 12:13:23 2017 ###
+### Printed by Pcbnew version kicad 4.0.6-e0-6349~53~ubuntu14.04.1
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                Package                    PosX       PosY       Rot  Side
+C1        CC0603KRX7R9BB104  CAPC0603               135.0000   -78.4000   90.0000  bottom
+C3        CC0603KRX7R9BB104  CAPC0603               129.0000   -78.4000   90.0000  bottom
+Q1        Q_NMOS_GDSD        SOT-223                155.4000   -85.2000   90.0000  bottom
+Q2        Q_NMOS_GDSD        SOT-223                144.4000   -85.2000   90.0000  bottom
+Q3        Q_NMOS_GDSD        SOT-223                144.4000   -74.4000   90.0000  bottom
+Q4        Q_NMOS_GDSD        SOT-223                155.4000   -74.4000   90.0000  bottom
+U1        MC14504B-TSSOP     SOP65P500X440X120-16   132.0000   -83.5000  180.0000  bottom
+## End
